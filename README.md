@@ -62,5 +62,7 @@ The Sales Ratio matrix highlights property tax imbalances when compared to the 1
 ---
 
 ## Recommendations
-* **Adjust Property Appraisals:** Update property tax models for over-assessed multi-family homes to bring their ratios closer to the 1.00 target line and balance tax liabilities.
-* **Fix Tax Revenue Loss:** Update tax assessments for condo developments in under-assessed jurisdictions to stop the current 28% to 29% loss in municipal tax revenue.
+* **Review Multi-Family Appraisal Disparities:** Investigate the high over-assessment patterns found in the multi-family sector—specifically in Kearney (2.38 ratio) and Tuscaloosa (2.28 ratio)—where assessed values are significantly higher than actual open-market sale prices.
+* **Update Condo Assessment Baselines:** Update valuation models for condominium sectors in jurisdictions like Beaufort (0.72 ratio) and Kalamazoo (0.77 ratio) to pull lagging assessed values closer to parity with actual market sale amounts.
+* **Segment Volatility Tracking:** Establish distinct, separate market monitoring schedules for commercial and industrial property segments, as their line trends show significantly higher price swings over time compared to the steady baseline found in the residential housing market.
+
