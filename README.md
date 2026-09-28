@@ -43,12 +43,19 @@ Transaction volumes peaked in mid-2021. This sudden increase in demand caused av
 
 ![Market Trends](docs/assets/macro_trends_dashboard.png)
 
-### 2. Market Volume Distribution by Value Tier
-The transaction volume is heavily concentrated in the mid-market segment. Properties priced between $150K and $500K represent the largest baseline share of the market with 293,930 transactions, followed by entry-level properties under $150K at 114,923 transactions. High-end segments taper off significantly, dropping to 63,361 for upper-market properties and 13,490 for luxury commercial or residential real estate.
+### 2. Property Type Composition
+The property mix shows that standard residential housing makes up the vast majority of the market, accounting for 99.02% of all active inventory. Government records show that municipal assessed values stayed steady compared to volatile open-market prices, remaining in a stable range between $237,612 and $333,182 for most of the decade.
 
 ![Market Volume Distribution](docs/assets/market_volume_distribution.png)
-
-### 3. Property Type Composition and Price Volatility
-The structural mix shows that standard residential housing makes up the vast majority of the market, accounting for 99.02% of all active inventory. Government records show that municipal assessed values stayed steady compared to volatile open-market prices, remaining in a stable range between $237,612 and $333,182 for most of the decade, before adjusting to a high of $478.3K in 2022. In contrast, commercial and industrial property segments experienced much higher pricing volatility, spiking sharply to peaks of $1,645.3K and $2,123.6K in 2021.
-
 ![Price Volatility Segment](docs/assets/price_volatility_segment.png)
+
+### 3. Sales Ratio and Tax Assessment Auditing
+The Sales Ratio matrix highlights property tax imbalances when compared to the 1.00 assessment target line. High-density family properties face a high tax burden due to over-assessment, with ratios peaking in Kearney at 2.38. Meanwhile, local governments lose tax revenue because condo assessments are too low compared to actual market values, notably in Salina (0.71) and Beaufort (0.72).
+
+![Sales Ratio Analysis Matrix](docs/assets/sales_ratio_analysis_matrix.png)
+
+---
+
+## Recommendations
+* **Adjust Property Appraisals:** Update property tax models for over-assessed multi-family homes to bring their ratios closer to the 1.00 target line and balance tax liabilities.
+* **Fix Tax Revenue Loss:** Update tax assessments for condo developments in under-assessed jurisdictions to stop the current 28% to 29% loss in municipal tax revenue.
