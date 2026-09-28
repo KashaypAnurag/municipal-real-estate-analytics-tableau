@@ -4,7 +4,7 @@
 ---
 
 ## Project Overview
-This project analyzes a dataset of 10,000 real estate transactions from 2011 to 2022 across multiple municipalities. The analysis tracks overall market trends to understand price changes over time, and audits local property tax models to find differences between property values and actual tax assessments.
+This project analyzes a dataset of 10,000 real estate transactions from 2011 to 2022 across multiple municipalities. The analysis tracks overall market trends to understand price changes over time.
 
 ### Key Insights:
 * **Market Trends:** Real estate prices peaked in late 2021 with average prices hitting over $1.36M. Prices went through a sharp correction during 2022 and began stabilizing around a $500K baseline by early 2023.
